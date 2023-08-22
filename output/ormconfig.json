@@ -1,0 +1,13 @@
+[
+  {
+    "name": "default",
+    "type": "postgres",
+    "host": "10.80.6.10",
+    "port": 5432,
+    "username": "ti",
+    "password": "Arigato123*",
+    "database": "",
+    "synchronize": false,
+    "entities": ["entities/*.js"]
+  }
+]
